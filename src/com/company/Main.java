@@ -2,7 +2,9 @@ package com.company;
 import java.util.*;
 public class Main {
 
-
+    public String test(){
+        return "gittest";
+    }
     public static void main(String[] args) {
 	// write your code here
         Scanner kb = new Scanner(System.in);
